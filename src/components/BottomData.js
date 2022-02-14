@@ -14,15 +14,15 @@ const BottomData = ({ weatherData }) => {
     <div className="bottom">
       <div className="feels">
         <p className="bold">{temperatureFeels}°C</p>
-        <p>Feels like</p>
+        <p>感じています</p>
       </div>
       <div className="humidity">
         <p className="bold">{humidity}%</p>
-        <p>Humidity</p>
+        <p>湿度</p>
       </div>
       <div className="wind">
         <p className="bold">{windSpeed}MPH</p>
-        <p>Wind speed</p>
+        <p>風速</p>
       </div>
     </div>
   );
