@@ -11,3 +11,5 @@ The page will reload when you make changes.\
 You may also see any lint errors in the console.
 
 ## Firebase Hosting 
+
+https://weather-app-85a28.firebaseapp.com/
