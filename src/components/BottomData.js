@@ -14,7 +14,7 @@ const BottomData = ({ weatherData }) => {
     <div className="bottom">
       <div className="feels">
         <p className="bold">{temperatureFeels}°C</p>
-        <p>感じています</p>
+        <p>感じ</p>
       </div>
       <div className="humidity">
         <p className="bold">{humidity}%</p>
